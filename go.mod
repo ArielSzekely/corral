@@ -1,4 +1,4 @@
-module github.com/bcongdon/corral
+module github.com/ArielSzekely/corral
 
 go 1.16
 
